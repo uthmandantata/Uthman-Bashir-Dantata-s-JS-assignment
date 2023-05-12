@@ -1,4 +1,4 @@
 document.querySelector("#myButton").onclick = function () {
-    const button = document.querySelector("#myButton");
-    button.innerText = "I am currently learning JavaScript"
+    const p = document.querySelector("#change");
+    p.innerText = "I am currently learning JavaScript"
 }
